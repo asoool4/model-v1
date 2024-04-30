@@ -1,0 +1,6 @@
+Flask
+flask-cors
+Pillow
+tensorflow
+tensorflow-hub
+kagglehub
